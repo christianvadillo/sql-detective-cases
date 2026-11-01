@@ -1,0 +1,147 @@
+[
+  {
+    "n": 1,
+    "id": "t1_noir__00_la_primera_consulta",
+    "play": "https://casoabiertogame.com/?via=github-cases#/caso/t1_noir__00_la_primera_consulta",
+    "more": "https://casoabiertogame.com/?via=github-cases",
+    "difficulty": 1,
+    "title": {
+      "en": "The First Query",
+      "es": "La primera consulta"
+    },
+    "folder": {
+      "en": "en/01-the-first-query",
+      "es": "es/01-la-primera-consulta"
+    },
+    "fields": [
+      {
+        "key": "nombre",
+        "label": {
+          "en": "Who entered",
+          "es": "Quién entró"
+        },
+        "hashes": [
+          "3e453be17f9f45331e3af9551fcd19c626ebf4e5cc094f68dab83f96ef90a424",
+          "c51bf0331300b766ff0e19291d1948d6cca2dd9aee5eaacb54662f380b6bbed6",
+          "fdee430d40bd57deeac186cd9790033d0f06f909a8806e7ce6e717ab7c7d5029"
+        ]
+      },
+      {
+        "key": "hora",
+        "label": {
+          "en": "At what time",
+          "es": "A qué hora"
+        },
+        "hashes": [
+          "230ad27c6e6e27669363918994e83fc533cf8d5ab4ee57ea1855428b8c553a53",
+          "8bfec3e03b09640b4f52a89e04f2c6351c70177db0ccf8500692c443e85696da"
+        ]
+      }
+    ],
+    "tagline": {
+      "en": "Twelve rows, one night, and the first question you ever ask a table.",
+      "es": "Doce filas, una noche y la primera pregunta que le haces a una tabla."
+    }
+  },
+  {
+    "n": 2,
+    "id": "t1_noir__01_el_expediente",
+    "play": "https://casoabiertogame.com/?via=github-cases#/caso/t1_noir__01_el_expediente",
+    "more": "https://casoabiertogame.com/?via=github-cases",
+    "difficulty": 1,
+    "title": {
+      "en": "The File Nobody Asked For",
+      "es": "El expediente que nadie pidió"
+    },
+    "folder": {
+      "en": "en/02-the-file-nobody-asked-for",
+      "es": "es/02-el-expediente-que-nadie-pidio"
+    },
+    "fields": [
+      {
+        "key": "nombre",
+        "label": {
+          "en": "Suspect's name",
+          "es": "Nombre del sospechoso"
+        },
+        "hashes": [
+          "64cc7b79cff6cbe7f839f66b094e81a8e54b3d5452564e09bb564bddec0c5c75",
+          "c109dc0ed0af1c09cbc0a9318ba21aa855898557a7d53f95f816d49631aeb7d3",
+          "d105f3487561c57f0f3c75dff50180c6278506e28cc134232f182fc767b43cd1"
+        ]
+      },
+      {
+        "key": "division",
+        "label": {
+          "en": "Division they belong to",
+          "es": "División a la que pertenece"
+        },
+        "hashes": [
+          "02ed3adf622abdf4749a343e948e6b5fbe32f2f2a9eca0811e46235b13de6e86",
+          "293f91ba1e22079e643ae62511cbb7ba6593dd3dc8b4d6e5f281c8e6dd0d6851",
+          "d32c98daf8246cb03b6954c7b8baf7e3926ae450b9a98956a1b786ca72dcbd93",
+          "f02b95ed0b00ce45335979782615d60879b99e788fa3b7b8fca1599589b88846"
+        ]
+      },
+      {
+        "key": "hora_entrada",
+        "label": {
+          "en": "Exact time they entered",
+          "es": "Hora exacta a la que entró"
+        },
+        "hashes": [
+          "2350d97b14c615eff5782df41c58cd129bd73f1cae6320ef65d7a3d696724142",
+          "8ea8eb612f9362da9d2b8ae0a65daa6410c9c952a4944933a8ad17aee8f86939"
+        ]
+      }
+    ],
+    "tagline": {
+      "en": "One folder short and fifteen alibis too many.",
+      "es": "Una carpeta menos y quince coartadas de más."
+    }
+  },
+  {
+    "n": 3,
+    "id": "_extras__p1_nadie_me_vio_salir",
+    "play": "https://christianvadillo.itch.io/nobody-saw-me-leave",
+    "more": "https://casoabiertogame.com/?via=github-cases",
+    "difficulty": 3,
+    "title": {
+      "en": "Nobody Saw Me Leave",
+      "es": "Nadie me vio salir"
+    },
+    "folder": {
+      "en": "en/03-nobody-saw-me-leave",
+      "es": "es/03-nadie-me-vio-salir"
+    },
+    "fields": [
+      {
+        "key": "nombre",
+        "label": {
+          "en": "Who robbed the jewelry shop",
+          "es": "Quién robó la joyería"
+        },
+        "hashes": [
+          "0478721f1106c2a631a90181bac7efc77767a3903eb9220687bff8a14e940fa7",
+          "2b2a0ff8f9def3f17d58512ab10d7b1b40e5ae06dabbddfd4d9278a428a3700c",
+          "e36e820fca8d70790e7537476cc666732057c3bca6f57aab68e83eebd8101f44"
+        ]
+      },
+      {
+        "key": "hora",
+        "label": {
+          "en": "Time of their last charge before the robbery",
+          "es": "A qué hora cobró por última vez antes del robo"
+        },
+        "hashes": [
+          "100e667d1f4c2509d4c83a29f718c423f492e834ad2b3b4e1d98b5efa918b677",
+          "b2d2cfe4c9713e6bb4fef817351715a074ef4614f4cbc2b65cb1c9fffe11fa99"
+        ]
+      }
+    ],
+    "tagline": {
+      "en": "The one who lied is not the one who stole.",
+      "es": "El que mintió no es el que robó."
+    }
+  }
+]
